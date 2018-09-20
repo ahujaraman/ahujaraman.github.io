@@ -21,12 +21,6 @@
   repo: machine-learning-coursera-stanford
   img: /static/assets/img/landing/ml.png
   desc: 'Completed graduate level course with 97.30% and developed detailed solutions in MATLAB. Completed projects based on Linear Regression, Logistic Regression, Multi-class Classification and Neural Networks, SVM, PCA, Recommender Systems.'
-
-- name: House Prices Prediction
-  i18n: house
-  url: https://www.kaggle.com/raman99/ml-model-house-price-prediction-kernel
-  img: /static/assets/img/landing/house.png
-  desc: 'Goal is to predict the final price of each home,with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. Employed feature  engineering and advanced regression techniques like random forest to reach RMSE  of 0.12 <br / > Tools - Numpy, Pandas, scikit-learn.' <br /> Dataset - <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data">Ames, Iowa Dataset</a>
   
 - name: Device for Curing Color Blindness - COE Lab, VNIT
   i18n: vnit
