@@ -5,8 +5,8 @@ title: Raman Ahuja
 description: Raman's blog, Raman Ahuja Personal Website.
 keywords: Raman Ahuja,blog,Raman,ASU,Machine Learning
 baseurl:   
-#url: https://ahujaraman.github.io  
-url: http://127.0.0.1:4000/
+url: https://ahujaraman.github.io  
+#url: http://127.0.0.1:4000/
 img_path: /static/assets/img/blog  
 
 # author -- index page "about me" section
