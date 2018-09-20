@@ -1,0 +1,35 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Enhanced Naive Bayes Model in NLP for Sentiment Analysis
+  i18n: thesis
+  gh_user: ahujaraman
+  repo: bayes_sentiment_analysis
+  img: /static/assets/img/landing/sentiment_analysis.png
+  desc: 'Developed a novel approach for improving the accuracy of Naive Bayes classifier for sentiment analysis. Factored in methods like effective negation handling, word n-grams and feature selection by mutual information and observed amalgamation of these results in a significant improvement in accuracy. We achieved an accuracy of 85.0% on the popular IMDB movie reviews dataset. Thus built a highly accurate and fast sentiment classifier which has linear time training and testing time complexities which is at par to the start-of-the-art SVM models. <b> The proposed method can be generalized to a number of text categorization problems for improving speed and accuracy.</b> <br /> Tools & Implementation - Java, StanfordCoreNLP, Text Pre-Processing, Feature Engineering, Feature Extraction. <br /> Dataset - <a href="http://ai.stanford.edu/~amaas/data/sentiment/">Stanford Large Moview Review Dataset</a>'
+
+- name: Intruder Detection through Webpage Session Tracking
+  i18n: catchme
+  gh_user: ahujaraman
+  url: https://www.kaggle.com/raman99
+  img: /static/assets/img/landing/catch_me.jpg
+  desc: 'Goal is to identify a user on the Internet tracking his/her sequence of attended Web pages. The algorithm built will take a webpage session (a sequence of webpages attended consequently by the same person) and predict whether it belongs to genuine person or somebody else. Have done feature-engineering based on sequential pattern mining techniques to enhance ROC AUC. <br / > Tools - Numpy, Pandas, scikit-learn, matplotlib. <br /> Dataset - <a href="https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/data">Blaise Pascal University proxy servers</a>'
+  
+- name: Machine Learning Coursera,Stanford University - Prof.AndrewNg 
+  i18n: mlcoursera
+  gh_user: ahujaraman
+  repo: machine-learning-coursera-stanford
+  img: /static/assets/img/landing/ml.png
+  desc: 'Completed graduate level course with 97.30% and developed detailed solutions in MATLAB. Completed projects based on Linear Regression, Logistic Regression, Multi-class Classification and Neural Networks, SVM, PCA, Recommender Systems.'
+
+- name: House Prices Prediction
+  i18n: house
+  url: https://www.kaggle.com/raman99/ml-model-house-price-prediction-kernel
+  img: /static/assets/img/landing/house.png
+  desc: 'Goal is to predict the final price of each home,with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. Employed feature  engineering and advanced regression techniques like random forest to reach RMSE  of 0.12 <br / > Tools - Numpy, Pandas, scikit-learn.' <br /> Dataset - <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data">Ames, Iowa Dataset</a>
+  
+- name: Device for Curing Color Blindness - COE Lab, VNIT
+  i18n: vnit
+  url: http://coe.vnit.ac.in/index.php/r-d-projects/summer-internship-projecgts
+  img: /static/assets/img/landing/vnit.jpg
+  desc: 'Designed and developed a device (hardware and software) for curing partial colour blindness, using optimal wavelength for better response of retina. Research and Development was fully funded under (TEQIP- II) program.'

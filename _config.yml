@@ -1,0 +1,70 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Raman Ahuja
+description: Raman's blog, Raman Ahuja Personal Website.
+keywords: Raman Ahuja,blog,Raman,ASU,Machine Learning
+baseurl:   
+#url: https://ahujaraman.github.io  
+url: http://127.0.0.1:4000/
+img_path: /static/assets/img/blog  
+
+# author -- index page "about me" section
+author:  
+  name: Raman   
+  first_name: Raman
+  last_name: Ahuja  
+  avatar: /static/assets/img/landing/avatar.jpg 
+  github_username: ahujaraman  
+  linkedin_id: raman-ahuja-8a566b97
+  facebook_username: 
+  kaggle_username: raman99
+  medium_username: '@ramanahuja99'
+  twitter_username: RamanAhuja7  
+  email: rvahuja@asu.edu
+  cv: https://ahujaraman.github.io/static/assets/resume_raman_ahuja_asu.pdf
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: fa-database
+    - name: icon-python
+  skill_icon2:
+    - name: icon-java
+    - name: icon-aws
+  desc: 'I am Computer Science graduate student at ASU, currently focused on <a href="https://en.wikipedia.org/wiki/Machine_learning"> Machine Learning</a>. <br /> Previously, I worked as a Software Engineer at <a href="https://www.numerify.com/">Numerify</a>- System of Intelligence for IT, where I developed optimized engine for large-scale distributed columnar databases. I have experience of delivering production ready solutions. 
+  <br/> I am a design oriented person and focused on implementing efficient algorithms to develop end-to-end products.
+ <br/>  I love reading and I keep my self up to date with the emerging technologies.
+ <br /><b> I am currently seeking internship opportunities for Summer 2019.</b>'
+
+# analytics
+## google analytics
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  #id: UA-93473370-3
+
+## google optimize
+#go:
+  # id:
+
+## growingIO
+#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

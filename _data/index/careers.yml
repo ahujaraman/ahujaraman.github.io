@@ -1,0 +1,81 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: <b>Arizona State University - FALL 2018</b>
+    i18n: ASU
+  desc:
+    detail: My interest focuses on Machine Learning and Deep Learning.<br /> Subjects of Interest - Statstical Learning and Pattern Recognition, Topics in NLP, Foundations of Algorithms 
+    i18n: ASU_desc
+  date:
+    detail: August. 2018 - May.2020
+    i18n: ASU_date
+  job:
+    detail: <b> Computer Science Graduate Student </b> <br /> <img src="/static/assets/img/landing/asu.png" alt="ASU" style="width:350px;height:125px;">
+    i18n: ASU_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: <b>Numerify.Inc </b>
+    i18n: NUMERIFY
+  desc:
+    detail: I primarily contributed on three projects - 
+            <ul>
+             <li> Developed optimization platform for large-scale columnar databases. Engine is deployed for 30+ tenants and reduced daily ETL batch processing time from ~10 hrs to ~6hrs.</li>
+            <li> Enterprise social media feedback driven analytics platform, led to 20% faster resolution of incident tickets. </li> 
+            <li> Healthcare outage analytics application, elevated outage prevention by ~2x. </li>
+            </ul> 
+            <br /><b>Tools & Skills - Java, Python, AWS Redshift, AWS, Mysql, ETL, Talend, Microstrategy, scikit-learn, nltk </b>.
+    i18n: NUMERIFY_desc
+  date:
+    detail: Jun. 2016 - Jun. 2018
+    i18n: NUMERIFY_date
+  job:
+    detail: <b> Associate Software Engineer </b> <br /> <img src="/static/assets/img/landing/numerify.png" alt="NUMERIFY" style="width:200px;height:150px;">
+    i18n: NUMERIFY_job
+  icon: fa-briefcase
+
+
+- name:
+    detail: <b>Visvesvaraya National Institute of Technology, Nagpur</b>
+    i18n: VNIT
+  desc:
+    detail: I completed my Undergraduation <b>Thesis on - Enhanced Naïve Bayes model in Natural Language Processing for Sentiment Analysis</b>, which can be generalized to a number of text categorization problems for improving speed and accuracy.
+    i18n: VNIT_desc
+  date:
+    detail: Jun. 2012 - May. 2016
+    i18n: VNIT_date
+  job:
+    detail: <b> B.Tech Computer Science </b> <br /> <img src="/static/assets/img/landing/vnit.png" alt="VNIT" style="width:100px;height:100px;">
+    i18n: VNIT_job
+  icon: fa-graduation-cap
+
+  
+- name:
+    detail: <b>Doboz</b>
+    i18n: DOBOZ
+  desc:
+    detail: Designed and developed an android application for digital wallet as a service. Implemented loyalty points program, rewards and incentives, and gift cards purchase-sale on the platform. <br /><br /><b>Tools & Skills - Java, Android, RDBMS</b>
+    i18n: DOBOZ_desc
+  date:
+    detail: May. 2015 - Jul. 2015
+    i18n: DOBOZ_date
+  job:
+    detail: <b> Software Engineering Intern </b> <br /> <img src="/static/assets/img/landing/doboz.png" alt="DOBOZ" style="width:100px;height:100px;">
+    i18n: DOBOZ_job
+  icon: fa-briefcase
+
+  
+- name:
+    detail: </b>Centre of Excellence Lab - VNIT</b>
+    i18n: COE
+  desc:
+    detail: Designed and developed a device (hardware and software) for curing partial colour blindness, using optimal wavelength for better response of retina. Research and Development was fully funded under (TEQIP- II) program.
+    i18n: COE_desc
+  date:
+    detail: May. 2014 - Jul. 2014
+    i18n: COE_date
+  job:
+    detail: <b> Research Engineering Intern </b> <br /> <img src="/static/assets/img/landing/vnit.png" alt="VNIT" style="width:100px;height:100px;">
+    i18n: COE_job
+  icon: fa-search-plus
+
